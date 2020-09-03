@@ -48,4 +48,3 @@ https://muro.sakenowa.com/sakenowa-data/
 [さけのわデータプロジェクト](https://muro.sakenowa.com/sakenowa-data/)
 [Pythonでゆるく始める静的型検査](https://qiita.com/ocknamo/items/6341d0a7757c668782c8#%E3%81%8A%E3%81%BE%E3%81%91stub%E3%82%92%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B)
 [Matplotlibでレーダーチャートを描く（16行）](https://qiita.com/1007/items/80406e098a4212571b2e)
-
