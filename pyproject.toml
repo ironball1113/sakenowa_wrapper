@@ -2,7 +2,7 @@
 name = "sakenowa"
 version = "0.1.0"
 description = ""
-authors = ["ironball"]
+authors = ["amagaeru"]
 license = "MIT"
 
 [tool.poetry.dependencies]
